@@ -2,4 +2,4 @@
 
 # SD Computing Studies Assignment
 # this program will display "hello world"
-lkjhlkj
+print("hello world")
